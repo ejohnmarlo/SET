@@ -1,4 +1,4 @@
-# CRS-Tools
+# Student Evalutation of Teaching Auto-Answer
 How to use?
 1. Install Greasemonkey.(Tampermonkey in Chrome)
 2. Create a new script.
