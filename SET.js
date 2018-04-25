@@ -81,7 +81,7 @@
     $("input[name='question_56'][value="+random(59,56)+"]").prop ('checked', true);
     $("input[name='question_57'][value="+random(63,62)+"]").prop ('checked', true);
 
-    $("input[name='question_408'][value="+random(71,69)+"]").prop ('checked', true);
+    $("input[name='question_408'][value="+random(70,68)+"]").prop ('checked', true);
 })();
 
 function random(a, b) {
